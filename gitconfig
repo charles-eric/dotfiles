@@ -46,3 +46,6 @@
 
 [push]
 	default = simple
+[user]
+	email = charles.e.lvd@gmail.com
+	name = charles-eric
